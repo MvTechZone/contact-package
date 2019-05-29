@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://mvtechzone.com" target="_blank"><img src="https://mvtechzone.com/img/logo-white.png"></a></p>
+# <p align="center"><a href="https://mvtechzone.com" target="_blank"><img src="https://mvtechzone.com/img/logo-black.png"></a></p>
   
 [![Issues](https://img.shields.io/github/issues/MvTechZone/contact-package.svg?style=flat-square)](https://github.com/MvTechZone/contact-package/issues)
 [![Starts](https://img.shields.io/github/stars/MvTechZone/contact-package.svg?style=flat-square)](https://github.com/MvTechZone/contact-package/stargazers)
