@@ -13,7 +13,14 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Techguy\\Contact\\": "src/"
+            "TechGuy\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TechGuy\\Contact\\ContactServiceProvider"
+            ]
         }
     }
 }
