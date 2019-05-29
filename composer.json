@@ -1,0 +1,19 @@
+{
+    "name": "techguy/contact",
+    "description": "This will send email to admin and save it to database query",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MvTechZone",
+            "email": "mvtechzone@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Techguy\\Contact\\": "src/"
+        }
+    }
+}
