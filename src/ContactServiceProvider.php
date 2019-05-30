@@ -25,7 +25,7 @@ class ContactServiceProvider extends ServiceProvider {
 
         //publishing models
         $this->publishes([
-            __DIR__ . '/Models' => public_path('app'),
+            __DIR__ . '/Models' => base_path('app'),
         ]);
 
 
